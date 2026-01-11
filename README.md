@@ -78,7 +78,7 @@
 </table>
 </div>
 
-> 💡 Tip: Replace the `thumbnail.png` with your own project preview images for each repo.  
+
 
 ---
 
